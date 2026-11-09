@@ -1,4 +1,7 @@
-int add_numbers(int a, int b) {
-    return a + b;
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+    return 0;
 }
-// add my file
